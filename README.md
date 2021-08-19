@@ -1,6 +1,4 @@
-# op-interview
-
-## 系统相关
+### 系统相关
 * uptime命令中load average字段后的3个数字代表什么？如何判断系统整体负载的高低？
 * 如何查看某个进程的CPU、内存和IO情况？
 * free命令中shared  buff/cache  available 这3个字段是什么意思？
